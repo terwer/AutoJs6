@@ -423,6 +423,12 @@ Gradle
     - 选择 `APK` 选项
     - 准备好签名文件 (新建或选取), 生成已签名的发布版安装包
     - 路径示例: `"D:\AutoJs6\app\release\"`
+- 打包 template.apk：https://github.com/SuperMonster003/AutoJs6/issues/263
+- ColorOS 15 无法开启无障碍服务解决办法：https://github.com/SuperMonster003/AutoJs6/issues/326
+
+```
+./gradlew app:assembleInrtRelease  
+```
 
 > 参阅: [Android Docs](https://developer.android.com/studio/run?hl=zh-cn)
 

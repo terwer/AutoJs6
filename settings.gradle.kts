@@ -135,7 +135,7 @@ pluginManagement {
             val androidStudio = object : Platform(
                 name = "AndroidStudio", abbr = "as", vendor = "Google",
                 androidVersionMap = mapOf(
-                    "2024.3" to "8.9.0-alpha07", /* Dec 25 2024. */
+                    "2024.3" to "8.9.0", /* Mar 20 2025. */
                     "2024.2" to "8.8.0-rc02", /* Dec 25 2024. */
                     "2024.1" to "8.6.0", /* Aug 30, 2024. */
                     "2023.3" to "8.5.0-alpha02", /* Mar 28, 2024. */
